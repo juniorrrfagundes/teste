@@ -28,3 +28,6 @@ https://console.cloud.google.com/apis/credentials?project=healthy-dolphin-430818
         ],
     }
 },
+
+
+{"installed":{"client_id":"860843709262-8a7liou6mn8se792gshcq6i9kgjtocu8.apps.googleusercontent.com","project_id":"healthy-dolphin-430818-p2","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"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","redirect_uris":["http://localhost"]}}
